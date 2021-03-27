@@ -16,12 +16,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pashadidychenko/"
+    "url": "git+https://github.com/pashadidychenko/hot-dog_market.git"
   },
   "bugs": {
-    "url": "https://github.com/pashadidychenko/"
+    "url": "https://github.com/pashadidychenko/hot-dog_market.git"
   },
-  "homepage": "https://github.com/pashadidychenko/",
+  "homepage": "https://github.com/pashadidychenko/hot-dog_market/dist/",
   "scripts": {
     "build": "npm run clean-dist && webpack --config=configs/webpack/prod.js",
     "clean-dist": "rimraf dist/*",
